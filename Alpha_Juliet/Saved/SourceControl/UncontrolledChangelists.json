@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/GAME2/Documents/UE5/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/Blueprints/WidgetDrag.uasset",
+				"C:/Users/GAME2/Documents/UE5/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/UI/DragWidget.uasset",
+				"C:/Users/GAME2/Documents/UE5/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/UI/HealthBar.uasset",
+				"C:/Users/GAME2/Documents/UE5/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/UI/HUD.uasset",
+				"C:/Users/GAME2/Documents/UE5/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UE5/ESCAPE ROOM/Alpha_Juliet/Alpha_Juliet/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/UE5/ESCAPE ROOM/Alpha_Juliet/Alpha_Juliet/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/UE5/ESCAPE ROOM/Alpha_Juliet/Alpha_Juliet/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
